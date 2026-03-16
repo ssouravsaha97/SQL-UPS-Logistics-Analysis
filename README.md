@@ -116,6 +116,8 @@ SQL-UPS-Logistics-Analysis
 
 ## 💡 Business Insights
 
+![Business Insights](screenshots/business_strategy_recommendations.png)
+
 - Traffic congestion is a major contributor to delivery delays
 - Some warehouses consistently outperform others
 - Delivery agent performance varies across routes
@@ -134,5 +136,7 @@ SQL-UPS-Logistics-Analysis
 ---
 
 ## 📌 Conclusion
+
+![Project Conclusion](screenshots/project_conclusion.png)
 
 This project demonstrates how **SQL-based analytics can uncover logistics inefficiencies and operational performance gaps**, enabling data-driven improvements in delivery operations.
