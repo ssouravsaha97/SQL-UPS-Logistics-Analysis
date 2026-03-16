@@ -1,5 +1,7 @@
 # 📦 UPS Logistics Delivery Performance Analysis
 
+![KPI Dashboard](screenshots/logistics_kpi_dashboard.png)
+
 SQL-based analytics project analyzing logistics delivery performance, shipment delays, route efficiency, and warehouse operations.
 
 ---
